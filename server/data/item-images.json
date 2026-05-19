@@ -1,0 +1,522 @@
+{
+  "food-001": {
+    "label": "Margherita Pizza",
+    "image_url": "https://www.themealdb.com/images/media/meals/lrfdwz1764438393.jpg",
+    "source": "themealdb"
+  },
+  "food-002": {
+    "label": "Spicy Ramen",
+    "image_url": "https://www.themealdb.com/images/media/meals/ip5xtp1769779958.jpg",
+    "source": "themealdb"
+  },
+  "food-003": {
+    "label": "Avocado Toast",
+    "image_url": "https://www.themealdb.com/images/media/meals/1549542994.jpg",
+    "source": "themealdb"
+  },
+  "food-004": {
+    "label": "Chicken Tikka Masala",
+    "image_url": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
+    "source": "themealdb-category"
+  },
+  "food-005": {
+    "label": "Sushi Platter",
+    "image_url": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg",
+    "source": "themealdb"
+  },
+  "food-006": {
+    "label": "Fish Tacos",
+    "image_url": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+    "source": "themealdb"
+  },
+  "food-007": {
+    "label": "Beef Burger",
+    "image_url": "https://www.themealdb.com/images/media/meals/lgmnff1763789847.jpg",
+    "source": "themealdb"
+  },
+  "food-008": {
+    "label": "Caesar Salad",
+    "image_url": "https://www.themealdb.com/images/media/meals/zry07j1763779321.jpg",
+    "source": "themealdb"
+  },
+  "food-009": {
+    "label": "Pad Thai",
+    "image_url": "https://www.themealdb.com/images/media/meals/rg9ze01763479093.jpg",
+    "source": "themealdb"
+  },
+  "food-010": {
+    "label": "Chocolate Lava Cake",
+    "image_url": "https://www.themealdb.com/images/media/meals/qxutws1486978099.jpg",
+    "source": "themealdb"
+  },
+  "food-011": {
+    "label": "Pho Bo",
+    "image_url": "https://www.themealdb.com/images/media/meals/pbzcrx1763765096.jpg",
+    "source": "themealdb"
+  },
+  "food-012": {
+    "label": "Greek Gyro",
+    "image_url": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+    "source": "themealdb"
+  },
+  "food-013": {
+    "label": "Mac and Cheese",
+    "image_url": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg",
+    "source": "themealdb-category"
+  },
+  "food-014": {
+    "label": "Shrimp Pad See Ew",
+    "image_url": "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg",
+    "source": "themealdb"
+  },
+  "food-015": {
+    "label": "Caprese Skewers",
+    "image_url": "https://www.themealdb.com/images/media/meals/c7lzrl1683208757.jpg",
+    "source": "themealdb-category"
+  },
+  "food-016": {
+    "label": "BBQ Pulled Pork",
+    "image_url": "https://www.themealdb.com/images/media/meals/lwsnkl1604181187.jpg",
+    "source": "themealdb"
+  },
+  "food-017": {
+    "label": "Miso Soup",
+    "image_url": "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg",
+    "source": "themealdb"
+  },
+  "food-018": {
+    "label": "Eggs Benedict",
+    "image_url": "https://www.themealdb.com/images/media/meals/1550440197.jpg",
+    "source": "themealdb"
+  },
+  "food-019": {
+    "label": "Chicken Shawarma",
+    "image_url": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+    "source": "themealdb"
+  },
+  "food-020": {
+    "label": "Tiramisu",
+    "image_url": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg",
+    "source": "themealdb-category"
+  },
+  "food-021": {
+    "label": "Beef Pho",
+    "image_url": "https://www.themealdb.com/images/media/meals/pbzcrx1763765096.jpg",
+    "source": "themealdb"
+  },
+  "food-022": {
+    "label": "Veggie Burrito Bowl",
+    "image_url": "https://www.themealdb.com/images/media/meals/ypuxtw1511297463.jpg",
+    "source": "themealdb-category"
+  },
+  "food-023": {
+    "label": "Lobster Roll",
+    "image_url": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+    "source": "themealdb-category"
+  },
+  "food-024": {
+    "label": "Poke Bowl",
+    "image_url": "https://www.themealdb.com/images/media/meals/ikizdm1763760862.jpg",
+    "source": "themealdb"
+  },
+  "food-025": {
+    "label": "French Onion Soup",
+    "image_url": "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg",
+    "source": "themealdb"
+  },
+  "food-026": {
+    "label": "Chicken Katsu",
+    "image_url": "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg",
+    "source": "themealdb-category"
+  },
+  "food-027": {
+    "label": "Bruschetta",
+    "image_url": "https://www.themealdb.com/images/media/meals/ctw3ba1763788978.jpg",
+    "source": "themealdb-category"
+  },
+  "food-028": {
+    "label": "Lamb Biryani",
+    "image_url": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+    "source": "themealdb"
+  },
+  "food-029": {
+    "label": "Clam Chowder",
+    "image_url": "https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg",
+    "source": "themealdb"
+  },
+  "food-030": {
+    "label": "Falafel Plate",
+    "image_url": "https://www.themealdb.com/images/media/meals/u5e9qq1763795441.jpg",
+    "source": "themealdb"
+  },
+  "food-031": {
+    "label": "Carbonara",
+    "image_url": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+    "source": "themealdb"
+  },
+  "food-032": {
+    "label": "Spring Rolls",
+    "image_url": "https://www.themealdb.com/images/media/meals/xd9aj21740432378.jpg",
+    "source": "themealdb-category"
+  },
+  "food-033": {
+    "label": "Beef Tacos al Pastor",
+    "image_url": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+    "source": "themealdb"
+  },
+  "food-034": {
+    "label": "Risotto ai Funghi",
+    "image_url": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+    "source": "themealdb"
+  },
+  "food-035": {
+    "label": "Chicken Wings",
+    "image_url": "https://www.themealdb.com/images/media/meals/4hzyvq1763792564.jpg",
+    "source": "themealdb"
+  },
+  "food-036": {
+    "label": "Croissant",
+    "image_url": "https://www.themealdb.com/images/media/meals/7mxnzz1593350801.jpg",
+    "source": "themealdb"
+  },
+  "food-037": {
+    "label": "Bibimbap",
+    "image_url": "https://www.themealdb.com/images/media/meals/kdz63q1764793442.jpg",
+    "source": "themealdb-category"
+  },
+  "food-038": {
+    "label": "Minestrone",
+    "image_url": "https://www.themealdb.com/images/media/meals/ip5xtp1769779958.jpg",
+    "source": "themealdb-category"
+  },
+  "food-039": {
+    "label": "Crab Cakes",
+    "image_url": "https://www.themealdb.com/images/media/meals/1549542994.jpg",
+    "source": "themealdb-category"
+  },
+  "food-040": {
+    "label": "Shakshuka",
+    "image_url": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
+    "source": "themealdb"
+  },
+  "food-041": {
+    "label": "Tonkotsu Ramen",
+    "image_url": "https://www.themealdb.com/images/media/meals/ip5xtp1769779958.jpg",
+    "source": "themealdb"
+  },
+  "food-042": {
+    "label": "Ceviche",
+    "image_url": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+    "source": "themealdb-category"
+  },
+  "food-043": {
+    "label": "Beef Wellington",
+    "image_url": "https://www.themealdb.com/images/media/meals/pbzcrx1763765096.jpg",
+    "source": "themealdb"
+  },
+  "food-044": {
+    "label": "Hummus Plate",
+    "image_url": "https://www.themealdb.com/images/media/meals/gpon5u1763801180.jpg",
+    "source": "themealdb"
+  },
+  "food-045": {
+    "label": "Chicken Parmesan",
+    "image_url": "https://www.themealdb.com/images/media/meals/prjve31763486864.jpg",
+    "source": "themealdb-category"
+  },
+  "food-046": {
+    "label": "Mango Sticky Rice",
+    "image_url": "https://www.themealdb.com/images/media/meals/sxxpst1468569714.jpg",
+    "source": "themealdb-category"
+  },
+  "food-047": {
+    "label": "Oysters Rockefeller",
+    "image_url": "https://www.themealdb.com/images/media/meals/wqqvyq1511179730.jpg",
+    "source": "themealdb-category"
+  },
+  "food-048": {
+    "label": "Peking Duck",
+    "image_url": "https://www.themealdb.com/images/media/meals/wvpvsu1511786158.jpg",
+    "source": "themealdb"
+  },
+  "food-049": {
+    "label": "Gazpacho",
+    "image_url": "https://www.themealdb.com/images/media/meals/h5qmn31763304965.jpg",
+    "source": "themealdb"
+  },
+  "food-050": {
+    "label": "Jambalaya",
+    "image_url": "https://www.themealdb.com/images/media/meals/lqampv1762325397.jpg",
+    "source": "themealdb-category"
+  },
+  "food-051": {
+    "label": "Beef Stroganoff",
+    "image_url": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg",
+    "source": "themealdb"
+  },
+  "food-052": {
+    "label": "Dim Sum Basket",
+    "image_url": "https://www.themealdb.com/images/media/meals/sfahy01763752319.jpg",
+    "source": "themealdb"
+  },
+  "food-053": {
+    "label": "Paella Valenciana",
+    "image_url": "https://www.themealdb.com/images/media/meals/9bl20p1763248192.jpg",
+    "source": "themealdb"
+  },
+  "food-054": {
+    "label": "Chicken Satay",
+    "image_url": "https://www.themealdb.com/images/media/meals/cj56fs1762340001.jpg",
+    "source": "themealdb-category"
+  },
+  "food-055": {
+    "label": "Beef Carpaccio",
+    "image_url": "https://www.themealdb.com/images/media/meals/wdfa171763065079.jpg",
+    "source": "themealdb-category"
+  },
+  "food-056": {
+    "label": "Churros",
+    "image_url": "https://www.themealdb.com/images/media/meals/nxnny61763250596.jpg",
+    "source": "themealdb"
+  },
+  "food-057": {
+    "label": "Moussaka",
+    "image_url": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg",
+    "source": "themealdb"
+  },
+  "food-058": {
+    "label": "Tom Yum Soup",
+    "image_url": "https://www.themealdb.com/images/media/meals/rg9ze01763479093.jpg",
+    "source": "themealdb"
+  },
+  "food-059": {
+    "label": "BLT Sandwich",
+    "image_url": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
+    "source": "themealdb-category"
+  },
+  "food-060": {
+    "label": "Beef Rendang",
+    "image_url": "https://www.themealdb.com/images/media/meals/bc8v651619789840.jpg",
+    "source": "themealdb"
+  },
+  "food-061": {
+    "label": "Escargot",
+    "image_url": "https://www.themealdb.com/images/media/meals/1520083578.jpg",
+    "source": "themealdb-category"
+  },
+  "food-062": {
+    "label": "Chicken Pot Pie",
+    "image_url": "https://www.themealdb.com/images/media/meals/8ovxf41763253962.jpg",
+    "source": "themealdb"
+  },
+  "food-063": {
+    "label": "Gnocchi Pesto",
+    "image_url": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg",
+    "source": "themealdb-category"
+  },
+  "food-064": {
+    "label": "Beef Bulgogi",
+    "image_url": "https://www.themealdb.com/images/media/meals/ewcikl1614348364.jpg",
+    "source": "themealdb-category"
+  },
+  "food-065": {
+    "label": "Cannoli",
+    "image_url": "https://www.themealdb.com/images/media/meals/sktequ1764447186.jpg",
+    "source": "themealdb-category"
+  },
+  "food-066": {
+    "label": "Osso Buco",
+    "image_url": "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg",
+    "source": "themealdb-category"
+  },
+  "food-067": {
+    "label": "Samosa",
+    "image_url": "https://www.themealdb.com/images/media/meals/swo87v1763595282.jpg",
+    "source": "themealdb-category"
+  },
+  "food-068": {
+    "label": "Beef Bourguignon",
+    "image_url": "https://www.themealdb.com/images/media/meals/vtqxtu1511784197.jpg",
+    "source": "themealdb"
+  },
+  "food-069": {
+    "label": "Croque Monsieur",
+    "image_url": "https://www.themealdb.com/images/media/meals/1wj8w31763781990.jpg",
+    "source": "themealdb-category"
+  },
+  "food-070": {
+    "label": "Chicken Adobo",
+    "image_url": "https://www.themealdb.com/images/media/meals/y7h0lq1683208991.jpg",
+    "source": "themealdb"
+  },
+  "food-071": {
+    "label": "Beef Empanadas",
+    "image_url": "https://www.themealdb.com/images/media/meals/q99te31763075494.jpg",
+    "source": "themealdb"
+  },
+  "food-072": {
+    "label": "Panna Cotta",
+    "image_url": "https://www.themealdb.com/images/media/meals/4i5cnx1587672171.jpg",
+    "source": "themealdb-category"
+  },
+  "food-073": {
+    "label": "Beef Kebab",
+    "image_url": "https://www.themealdb.com/images/media/meals/04axct1763793018.jpg",
+    "source": "themealdb"
+  },
+  "food-074": {
+    "label": "Clam Linguine",
+    "image_url": "https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg",
+    "source": "themealdb"
+  },
+  "food-075": {
+    "label": "Chicken Mole",
+    "image_url": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+    "source": "themealdb-category"
+  },
+  "food-076": {
+    "label": "Beef Pho Tai",
+    "image_url": "https://www.themealdb.com/images/media/meals/pbzcrx1763765096.jpg",
+    "source": "themealdb"
+  },
+  "food-077": {
+    "label": "Beef Tartare",
+    "image_url": "https://www.themealdb.com/images/media/meals/w8umt11583268117.jpg",
+    "source": "themealdb-category"
+  },
+  "food-078": {
+    "label": "Chicken Quesadilla",
+    "image_url": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg",
+    "source": "themealdb-category"
+  },
+  "food-079": {
+    "label": "Beef Chili",
+    "image_url": "https://www.themealdb.com/images/media/meals/uwxqwy1483389553.jpg",
+    "source": "themealdb"
+  },
+  "food-080": {
+    "label": "Chicken Piccata",
+    "image_url": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+    "source": "themealdb"
+  },
+  "food-081": {
+    "label": "Beef Fajitas",
+    "image_url": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg",
+    "source": "themealdb"
+  },
+  "food-082": {
+    "label": "Chicken Teriyaki",
+    "image_url": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+    "source": "themealdb"
+  },
+  "food-083": {
+    "label": "Beef Meatballs",
+    "image_url": "https://www.themealdb.com/images/media/meals/72fgzj1764109947.jpg",
+    "source": "themealdb"
+  },
+  "food-084": {
+    "label": "Chicken Curry",
+    "image_url": "https://www.themealdb.com/images/media/meals/sstssx1487349585.jpg",
+    "source": "themealdb"
+  },
+  "food-085": {
+    "label": "Beef Lasagna",
+    "image_url": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+    "source": "themealdb"
+  },
+  "food-086": {
+    "label": "Chicken Paella",
+    "image_url": "https://www.themealdb.com/images/media/meals/9bl20p1763248192.jpg",
+    "source": "themealdb"
+  },
+  "food-087": {
+    "label": "Beef Sliders",
+    "image_url": "https://www.themealdb.com/images/media/meals/wrssvt1511556563.jpg",
+    "source": "themealdb-category"
+  },
+  "food-088": {
+    "label": "Chicken Dumplings",
+    "image_url": "https://www.themealdb.com/images/media/meals/sfahy01763752319.jpg",
+    "source": "themealdb"
+  },
+  "food-089": {
+    "label": "Beef Ravioli",
+    "image_url": "https://www.themealdb.com/images/media/meals/5fu4ew1760524857.jpg",
+    "source": "themealdb-category"
+  },
+  "food-090": {
+    "label": "Chicken Enchiladas",
+    "image_url": "https://www.themealdb.com/images/media/meals/54xzk31760524666.jpg",
+    "source": "themealdb-category"
+  },
+  "food-091": {
+    "label": "Beef Hot Pot",
+    "image_url": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
+    "source": "themealdb-category"
+  },
+  "food-092": {
+    "label": "Chicken Ramen",
+    "image_url": "https://www.themealdb.com/images/media/meals/ip5xtp1769779958.jpg",
+    "source": "themealdb"
+  },
+  "food-093": {
+    "label": "Beef Sashimi",
+    "image_url": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+    "source": "themealdb-category"
+  },
+  "food-094": {
+    "label": "Chicken Fried Rice",
+    "image_url": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+    "source": "themealdb"
+  },
+  "food-095": {
+    "label": "Beef Udon",
+    "image_url": "https://www.themealdb.com/images/media/meals/wrustq1511475474.jpg",
+    "source": "themealdb"
+  },
+  "food-096": {
+    "label": "Chicken Gyoza",
+    "image_url": "https://www.themealdb.com/images/media/meals/kvbotn1581012881.jpg",
+    "source": "themealdb-category"
+  },
+  "food-097": {
+    "label": "Beef Bibimbap",
+    "image_url": "https://www.themealdb.com/images/media/meals/cgl60b1683206581.jpg",
+    "source": "themealdb-category"
+  },
+  "food-098": {
+    "label": "Chicken Pho",
+    "image_url": "https://www.themealdb.com/images/media/meals/pbzcrx1763765096.jpg",
+    "source": "themealdb"
+  },
+  "food-099": {
+    "label": "Beef Tostadas",
+    "image_url": "https://www.themealdb.com/images/media/meals/bc8v651619789840.jpg",
+    "source": "themealdb-category"
+  },
+  "food-100": {
+    "label": "Chicken Tacos",
+    "image_url": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+    "source": "themealdb"
+  },
+  "food-101": {
+    "label": "Beef Nachos",
+    "image_url": "https://www.themealdb.com/images/media/meals/vwwspt1487394060.jpg",
+    "source": "themealdb-category"
+  },
+  "food-102": {
+    "label": "Chicken Burrito",
+    "image_url": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg",
+    "source": "themealdb-category"
+  },
+  "food-103": {
+    "label": "Beef Queso Dip",
+    "image_url": "https://www.themealdb.com/images/media/meals/oal8x31764119345.jpg",
+    "source": "themealdb"
+  },
+  "food-104": {
+    "label": "Chicken Soup",
+    "image_url": "https://www.themealdb.com/images/media/meals/7kb44y1763589084.jpg",
+    "source": "themealdb"
+  }
+}
